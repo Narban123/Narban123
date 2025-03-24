@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm harshita-narban</h1>
+<h1 align="center">Hi 👋, I'm harshita-narban</h1>
 <h3 align="center">A passionate software engineer in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narban123&label=Profile%20views&color=0e75b6&style=flat" alt="narban123" /> </p>
@@ -16,3 +16,4 @@ h1 align="center">Hi 👋, I'm harshita-narban</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narban123&show_icons=true&locale=en" alt="narban123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narban123&" alt="narban123" /></p>
+
